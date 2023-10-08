@@ -1,1 +1,1 @@
-from .checker import DNSBLChecker, DNSBLDomainChecker, DNSBLIpChecker
+from .checker import DNSBLDomainChecker, DNSBLIpChecker
